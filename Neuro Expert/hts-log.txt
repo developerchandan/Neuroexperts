@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 07 Jun 2021 21:01:37 at https://neuroexpert.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://neuroexpert.in/ -O1 "E:\My Websites\Neuro Expert" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:02:34	Error: 	"Not Found" (404) at link https://neuroexpert.in/about.html (from https://neuroexpert.in/)
+21:03:16	Error: 	"Not Found" (404) at link https://neuroexpert.in/contact-forms.html (from https://neuroexpert.in/Cerebral-Aneurysm.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 39 seconds : 140 links scanned, 137 files written (11318746 bytes overall) [7328846 bytes received at 74028 bytes/sec], 11217716 bytes transferred using HTTP compression in 138 files, ratio 63%, 17.7 requests per connection
+(2 errors, 0 warnings, 0 messages)
